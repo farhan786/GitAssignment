@@ -2,22 +2,22 @@
 # **Installation**
 
 ## Step 1: Console
-![Console Image](https://github.com/farhan786/GitAssignment/blob/master/images/console.png)
+![Console Image](https://i.ibb.co/2SW8pZd/console.png)
 
 ## Step 2: Create physical file filename.py
-![Console Image](https://github.com/farhan786/GitAssignment/blob/master/images/python.png)
+![VS Code Image](https://i.ibb.co/9sbh13w/python.png)
 
 ## Step 3: Create Jupyter notebook file
-![Console Image](https://github.com/farhan786/GitAssignment/blob/master/images/notejypter.png)
+![JN Image](https://i.ibb.co/fXVNQSB/notejypter.png)
 
 ## Step 4: Create Spyder file
-![Console Image](https://github.com/farhan786/GitAssignment/blob/master/images/spyder.png)
+![Spyder Image](https://i.ibb.co/MZRm60x/spyder.png)
 
 ## Step 5: Create Jupyter Lab file
-![Console Image](https://github.com/farhan786/GitAssignment/blob/master/images/spyder.png)
+![Lab Image](https://i.ibb.co/bQnD6GX/lab.png)
 
 ## Step 6: Create CoLab file
-![Console Image](https://github.com/farhan786/GitAssignment/blob/master/images/spyder.png)
+![CoLab Image](https://i.ibb.co/n015KpG/colab.png)
 
 ## Step 6: Create AWS file
 ### access of card denied
